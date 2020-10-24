@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Tasks 5, 6, 7, 8;
 public class TasksNext {
     public static void main(String[] args) {
 
@@ -17,7 +17,7 @@ public class TasksNext {
             if(i%2==0)
             System.out.println(i);
         }
-//Task 8s
+//Task 8
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter 2 numbers");
         int first=scanner.nextInt();
